@@ -33,7 +33,13 @@ this is a blockquote
 ```c
 print ("hello,markdown")
 ```
-![inage](https://theportablewife.com/travel/destinations/best-places-to-take-pictures-in-paris/)
+![inage](https://theportablewife.com/wp-content/uploads/must-take-pictures-in-paris-facebook.jpg)
+
+`print()`
+
+|name|roll|series|
+|-----|----|-----|
+|ali|01|22|
 
 
 
